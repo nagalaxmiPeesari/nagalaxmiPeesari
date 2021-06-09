@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nagalaxmiPeesari
-- 👀 I’m cuurently looking for Entry level Data Analystand Data Scientist jobs.
+- 👀 I’m cuurently looking for Entry level Data Analyst and Data Scientist jobs.
 - 🌱 I’m currently learning Data Analytics Skills
 
 <!---
